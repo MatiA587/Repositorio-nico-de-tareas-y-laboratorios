@@ -1,0 +1,5 @@
+Primeramente el sistema pide datos del estudiante como nombre, apellido, carnet, carrera y paralelo.
+Luego se ingresan 5 materias con sus respectivas notas que tienen que ser entre 0 y 100 para evitar que salga un error, luego se calcula el promedio general de las notas de esas materias.
+El bono se obtiene al calucular el 7% de los 2 ultimos digitos del carnet del estudiante y este bono se añade sumado al promedio final
+segun el promedio del estudiante se mostrara un mensaje ya sea exelente, bueno, regular u observado
+y finalmente se mostrara un resumen de su promedio general, bono academico, promedio final, materias aprobadas, y el estado del estudiante
